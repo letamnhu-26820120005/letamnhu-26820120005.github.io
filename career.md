@@ -7,7 +7,7 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-AI 
+AI Engineer
 
 Vì sao: …
 
