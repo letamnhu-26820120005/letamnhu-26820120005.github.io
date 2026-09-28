@@ -7,7 +7,7 @@ title: Cẩm nang làm việc nhóm
 > **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
 > nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
 
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:**Anyone is legend · **Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang, Trần Trung Sỹ,Lê Tâm Như. 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
@@ -17,9 +17,9 @@ title: Cẩm nang làm việc nhóm
 
 Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
 
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** Trễ hẹn, nước tới chân mới nhảy, làm việc người trước người sau.   
 
-**Vấn đề thật (sau khi bóc):** …
+**Vấn đề thật (sau khi bóc):** Chậm trễ trong việc làm bài tập, dự án nhóm.
 
 *Người viết phần này: …*
 
