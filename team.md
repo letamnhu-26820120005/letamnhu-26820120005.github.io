@@ -74,11 +74,11 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 Bữa đầu:Cả nhóm hẹn họp online vào 10h.
 Khi họp nhóm trưởng bắt đầu chia việc cho từng bạn:
--Bạn Tâm Như làm 2 phần 1 đầu và cuối.
--Bạn Phú Quý làm phần 2 đầu và 3 cuối.
--Bạn Hữu Đức làm phần 4 đầu và 2 cuối.
--Bạn Minh Khang làm phần 5 đầu và 4 cuối.
--Bạn Trung Sỹ làm phần 3 đầu và 5 cuối.
+*-Bạn Tâm Như làm 2 phần 1 đầu và cuối.*
+*-Bạn Phú Quý làm phần 2 đầu và 3 cuối.*
+*-Bạn Hữu Đức làm phần 4 đầu và 2 cuối.*
+*-Bạn Minh Khang làm phần 5 đầu và 4 cuối.*
+*-Bạn Trung Sỹ làm phần 3 đầu và 5 cuối.*
 *Người viết phần này: Lê Tâm Như *
 
 ## 2. Cách đặt hạn cho nhau
