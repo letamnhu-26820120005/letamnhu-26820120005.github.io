@@ -73,7 +73,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 ## 1. Cách chia việc
 
 Bữa đầu:Cả nhóm hẹn họp online vào 10h.
-Khi họp nhóm trưởng bắt đầu chia việc cho từng bạn:
+Khi họp nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng và các bạn tự xung phong:
 
 -Bạn Tâm Như làm 2 phần 1 đầu và cuối.
 
