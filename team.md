@@ -4,9 +4,6 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
-> nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
-
 **Nhóm:**Anyone is legend · **Thành viên:** 5 người:Nguyễn Phú Quý,Nguyễn Hữu Đức,Bùi Minh Khang, Trần Trung Sỹ,Lê Tâm Như. 
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
@@ -21,7 +18,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 **Vấn đề thật (sau khi bóc):** Chậm trễ trong việc làm bài tập, dự án nhóm.
 
-*Người viết phần này: …*
+*Người viết phần này: Lê Tâm Như *
 
 ### 2. Cách đo và số liệu
 
@@ -35,7 +32,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 | … | … | … |
 | … | … | … |
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Phú Quý*
 
 ### 3. Nguyên nhân gốc
 
@@ -47,7 +44,7 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 4. Vì sao [câu trả lời 3]? → …
 5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
 
-*Người viết phần này: …*
+*Người viết phần này: Trần Trung Sỹ*
 
 ### 4. Ba giải pháp đã thử
 
@@ -59,7 +56,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 | … | … | … | … | … |
 | … | … | … | … | … |
 
-*Người viết phần này: …*
+*Người viết phần này: Nguyễn Hữu Đức*
 
 ### 5. Cẩm nang cho người sau
 
@@ -71,13 +68,18 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** …
 
-*Người viết phần này: …*
+*Người viết phần này: Bùi Minh Khang*
 
 ## 1. Cách chia việc
 
-…
-
-*Người viết phần này: …*
+Bữa đầu:Cả nhóm hẹn họp online vào 10h.
+Khi họp nhóm trưởng bắt đầu chia việc cho từng bạn:
+-Bạn Tâm Như làm 2 phần 1 đầu và cuối.
+-Bạn Phú Quý làm phần 2 đầu và 3 cuối.
+-Bạn Hữu Đức làm phần 4 đầu và 2 cuối.
+-Bạn Minh Khang làm phần 5 đầu và 4 cuối.
+-Bạn Trung Sỹ làm phần 3 đầu và 5 cuối.
+*Người viết phần này: Lê Tâm Như *
 
 ## 2. Cách đặt hạn cho nhau
 
