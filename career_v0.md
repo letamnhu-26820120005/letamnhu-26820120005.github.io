@@ -9,7 +9,7 @@ title: Chân dung nghề của tôi
 
 Software engineer
 
-Vì sao: mong muốn làm app
+Vì sao: mong muốn làm app, làm ra những sản phẩm mà có thể tạo ra lợi nhuận và ai cũng có thể dùng.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
