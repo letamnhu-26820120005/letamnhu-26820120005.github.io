@@ -4,14 +4,12 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
-
+> **Bài 1 ·
 ## Hướng tôi nhắm
 
-…
+Software engineer
 
-Vì sao: …
+Vì sao: mong muốn làm app
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
