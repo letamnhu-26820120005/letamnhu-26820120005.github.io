@@ -128,7 +128,7 @@ Nhóm cãi nhau ở việc bất đồng quan điểm, do 1 phần mọi ngườ
 
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Không |
+| **Hoài** | Không |
+| **Học** | Không |
+| **Hành** | Không |
