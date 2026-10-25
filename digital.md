@@ -4,15 +4,9 @@ title: Dấu chân số của tôi
 
 # Dấu chân số của tôi
 
-> **Bài 4 · Xoá dòng này khi nộp.**
-> **CẢNH BÁO QUAN TRỌNG:** trang này công khai, ai cũng đọc được.
-> Tuyệt đối không đưa lên đây ảnh có mã xác thực, số điện thoại, địa chỉ nhà,
-> hay bất cứ thứ gì em không muốn một người lạ nhìn thấy sau bốn năm.
-> Ảnh chụp bằng chứng nộp riêng qua ô nộp bài thứ hai trên LMS.
-
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+Không thấy gì và chỉ thấy người khác.
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
@@ -25,17 +19,17 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | # | Nhóm năng lực | Mức của tôi | Bằng chứng, mô tả bằng lời |
 |---|---|---|---|
-| 1 | Vận hành thiết bị và phần mềm | … | … |
-| 2 | Năng lực thông tin và dữ liệu | … | … |
-| 3 | Giao tiếp và hợp tác trong môi trường số | … | … |
-| 4 | Sáng tạo nội dung số | … | … |
-| 5 | An ninh và an toàn trên không gian mạng | … | … |
-| 6 | Học tập và phát triển kỹ năng số | … | … |
-| 7 | Năng lực số liên quan đến nghề nghiệp | … | … |
+| 1 | Vận hành thiết bị và phần mềm | Dùng được | Có khả năng sử dụng các thiết bị như laptop và điện thoại để đáp ứng nhu cầu học tập cùng với đó đã sử dụng các ứng dụng học tập như Duolingo và WPS office để cải thiện kỹ năng bản thân và học tập. |
+| 2 | Năng lực thông tin và dữ liệu | Dùng được | Có thể tra cứu thông tin từ các nguồn học tập khác nhau cùng với đó biết sử dụng các giáo trình học từ những năm trước để bổ sung thêm kiến thức cho mình. |
+| 3 | Giao tiếp và hợp tác trong môi trường số | Dùng được | Thường xuyên làm việc nhóm qua zoom và discord, biết giữ thái độ lịch sự và ôn hòa khi thảo luận nhóm và làm bài tập chung. |
+| 4 | Sáng tạo nội dung số | Dùng được | Biết cách sử dụng canva và powerpoint để thiết kế slide, có tìm hiểu và sử dụng được ứng dụng capcut để tạo video và chỉnh sửa ảnh. |
+| 5 | An ninh và an toàn trên không gian mạng | Dùng được | Đã chủ động bật xác thực 2 lớp trên mọi nền tảng không gian mạng, không nhấn vào các dường link lạ khi được gửi thì một người lạ hoặc nhận cuộc gọi từ số máy lạ gọi đến. |
+| 6 | Học tập và phát triển kỹ năng số | Dùng được | Đã được học tập và đang tìm tòi, học hỏi thêm về cách sử dụng các ứng dụng AI để đáp ứng nhu cầu học tập, tìm kiếm tài liệu học và xác thực thông tin trên mạng. |
+| 7 | Năng lực số liên quan đến nghề nghiệp | Đang tập | Hiện đang trong giai đoạn năm nhất đại học và đang dần dần làm quen với việc học những ngôn ngữ lập trình, các app liên quan đến lập trình cùng với những app phục vụ cho định hướng tương lai.  |
 
 ## Ba việc tôi sẽ sửa trong tháng này
 
-1. …
+1. Thói quen xao nhãng: Đã biết cách dồn sự tập trung nghiêm túc và không bị phân tâm bởi những tác động ngoại cảnh.
 2. Học tập và nghiên cứu nhiều hơn về việc phát triển kỹ năng số
 3. Tăng cường khả năng chủ động trong việc hoạt động trong các hoạt động cần thiết và quan trọng của nhóm
 
