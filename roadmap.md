@@ -49,15 +49,15 @@ AI Engineer.
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
-
+- AI nói: tính thêm học phần bóng chuyền và quốc phòng, tổng 155 tín chỉ.
+- Bảng chương trình đào tạo thật ra ghi: học phần bóng chuyền và quốc phòng là tín chỉ không tích lũy, tổng 150 tín chỉ.
+- Tôi sửa thành: học phần bóng chuyền và quốc phòng là tín chỉ không tích lũy, tổng 150 tín chỉ.
+.
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Mã môn ENC121 2 tín chỉ. 
+- Bảng chương trình đào tạo thật ra ghi: Mã môn ENC121 3 tín chỉ.
+- Tôi sửa thành: Mã môn ENC121 3 tín chỉ.
 
 ## Tôi đã làm việc với AI thế nào
 
