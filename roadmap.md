@@ -6,7 +6,7 @@ title: Bản đồ học tập bốn năm
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
-…
+AI Engineer.
 
 ## Tám học kỳ
 
@@ -41,9 +41,9 @@ title: Bản đồ học tập bốn năm
 **Tổng cộng: 150 tín chỉ trong đó có 5 tính chỉ không tích lũy.**
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 3, vì tập trung học các môn đại cương
+- Môn Cơ sở lập trình phải học trước môn Kỹ thuật lập trình vì cần xây nền thật vững chắc thì mới 
+- Kỳ 8 tôi để nhẹ vì làm tập trung làm đồ án và tích lũy kinh nghiệm qua thực tập tốt nhất có thể. 
 
 ## Hai chỗ AI nói sai
 
