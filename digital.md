@@ -42,4 +42,4 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 | **Hỏi** | Bạn là một gia sư Socratic. Mục tiêu KHÔNG phải trả lời, mà là giúp tôi tự định vị mình. 1. Không đưa đáp án ở lượt đầu. hãy hỏi ngược lại để giúp tôi xác định được năng lực số của mình ở bước nào” 2. Sau mỗi câu tôi đoán, hỏi một câu đẩy giả định đó tới giới hạn. Đừng khen, đừng sửa vội. 3. Chỉ khi tôi đã đoán ít nhất hai lần, bạn mới được hé một phần. Bối cảnh: tôi là sinh viên năm nhất ngành Khoa học máy tính. Tôi đang tự chấm nhóm “[năng lực thông tin và dữ liệu ]” và phân vân giữa mức 2 và mức 3. |
 | **Hoài** | Nghi ngờ về việc AI đã dựa vào đâu và khung cơ sở nào để đưa ra rằng năng lực của tôi ở mức đấy |
 | **Học** | Học được AI thường sẽ không đưa ra nguồn mà lại hay giải thích sao cho nghe hợp lý nhất có thể để mình tin vào nó |
-| **Hành** | TUI KHÔNG NGHĨ RA ĐC CÁI PHẦN NÀY BẠN CUTE BỔ SUNG VÀO NHAAA  |
+| **Hành** | Bắt đầu rút ra những ý đúng và tổng hợp lại để dùng.  |
