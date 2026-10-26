@@ -10,9 +10,9 @@ title: Hồ sơ nhập ngành
 
 Sinh viên năm nhất Khoa học máy tính · đang đi về hướng AI Engineer
 
-- … việc đã làm số 1, kèm một con số → [career.md](career.md)
-- … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
-- … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
+- 3 tin tuyển dụng và bắt được 2 lỗi của AI → [career.md](career.md)
+- Lộ trình 8 học kỳ → [roadmap.md](roadmap.md)
+- 5 câu hỏi và 5 quy tắc sử dụng AI → [ai-audit.md](ai-audit.md)
 
 letamnhul682@gmail.com · <https://letamnhu-26820120005.github.io>
 
