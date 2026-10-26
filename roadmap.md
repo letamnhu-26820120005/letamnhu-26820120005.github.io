@@ -63,7 +63,7 @@ AI Engineer.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Nhờ AI dùng nguồn tư liệu từ trường để làm ra 1 lộ trình cho 8 học kì |
+| **Hoài** | Các môn học sắp xếp bị dồn lại quá nhiều và rối loạn với nhau |
+| **Học** | Tra cứu lại thông tin và nhận ra nhưng lỗi sai của AI |
+| **Hành** | Tra cứu lại tư liệu và chỉnh sửa lại nội dung và làm lại theo nhu cầu của bản thân |
