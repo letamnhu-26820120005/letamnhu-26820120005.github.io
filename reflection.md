@@ -4,34 +4,33 @@ title: Nhìn lại học kỳ
 
 # Nhìn lại học kỳ
 
-> **Bài 6 · Xoá dòng này khi nộp.**
-> Trước khi viết, hãy mở lại năm trang trước và đọc một lượt từ đầu.
+> **Bài 6 **
 
 ## Tôi đã thay đổi thế nào
 
 Đọc lại trang Bài 1 rồi trả lời: điều gì tôi tin hồi đó mà giờ không còn tin nữa?
 
-…
+Hồi đó tôi tin rằng mình chỉ phải làm việc với máy tính nhiều hơn làm việc cùng xã hội nhưng bây giờ thì cả hai đều quan trọng và hỗ trợ cho nhau.
 
 ## Trang tôi làm tốt nhất
 
-…, vì …
+career.md, vì làm lại nhiều lần
 
 ## Trang tôi làm cho xong
 
 Viết thật. Bài nào cũng có một trang như vậy.
 
-…, vì …
+roadmap.md, vì lười
 
 ## Nếu có thêm hai tuần
 
-Tôi sẽ viết lại trang …, theo cách …
+Tôi sẽ viết lại tất cả trang , theo cách nghiêm túc.
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. …
-2. …
-3. …
+1. Kỹ năng làm việc nhóm
+2. Kỹ năng viết email
+3. Phương pháp sử dụng AI
 
 ## Đoạn tự giới thiệu chín mươi giây
 
