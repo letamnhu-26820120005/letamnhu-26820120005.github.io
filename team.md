@@ -77,11 +77,11 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 Bữa đầu:Cả nhóm hẹn họp online vào 22h.
 Nhóm trưởng bắt đầu chia việc cho từng bạn theo khả năng của mỗi thành viên.
 Trưởng nhóm Tâm Như: Phân chia việc cho các thành viên <br>
-Phó nhóm Phú Quý: Phần 1, 3 ( Chịu trách nhiệm phần 1: Vấn đề) <br>
-Thành viên Hữu Đức: Phần 4, 2( Chịu trách nhiệm phần 1: Ba giải pháp đã thử) <br>
-Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần 1: Cẩm nang cho người sau) <br>
-Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần 1: Nguyên nhân gốc) <br>
-Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần 1: Cách đo và số liệu)
+Phó nhóm Phú Quý: Phần 1, 3 ( Chịu trách nhiệm phần Vấn đề) <br>
+Thành viên Hữu Đức: Phần 4, 2( Chịu trách nhiệm phần Ba giải pháp đã thử) <br>
+Thành viên Minh Khang: Phần 5, 4 ( Chịu trách nhiệm phần Cẩm nang cho người sau) <br>
+Thành viên Trung Sỹ: Phần 3, 1( Chịu trách nhiệm phần Nguyên nhân gốc) <br>
+Thành viên Tùng Dương: Phần 2, 5 ( Chịu trách nhiệm phần Cách đo và số liệu)
 
 *Người viết phần này: Trần Trung Sỹ*
 
